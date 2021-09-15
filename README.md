@@ -1,2 +1,7 @@
 # file-reader
-it will read  file from excel and store data into database
+it will read  files from excel and store data into database
+- jdbc
+- oracal 
+- maven
+- java
+- 
